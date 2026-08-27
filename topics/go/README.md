@@ -17,11 +17,12 @@ Go 语言：从当前基础到精通（语言 + 常用标准库 + 生产工程�
 - **知识目录（SSOT）：** [curriculum.md](./notes/curriculum.md)
 - **基础快照：** [foundation.md](./notes/foundation.md)
 - **阶段地图：** [roadmap.md](./notes/roadmap.md)
-- Lab：暂无（挂载见 curriculum；下一个建议 `labs/001-slice-and-interface/`）
+- **当前讲解：** [0101 包与可见性](./notes/kp/0101-packages-visibility.md)
+- Lab：暂无
 - 项目：暂无（P3：`projects/json-api/`）
 
 ## 下一步
 
-1. （可选）P0：`notes/java-to-go.md`
-2. 按目录学 **0106**（slice header）→ 写 `notes/kp/0106-….md` → 更新 foundation
-3. 紧接 **0113**（nil interface），再开 lab `001-slice-and-interface`
+1. 学完 0101 → 验收 → 更新 foundation → 勾 `done`
+2. 按编号进入 0102
+3. 不跳号，除非明确要求插队补洞
