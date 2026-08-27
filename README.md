@@ -15,6 +15,6 @@
 
 | 技术 | 状态 | 一句话 |
 |------|------|--------|
-| [go](./topics/go/) | learning | Java→Go：补洞→并发→生产后端→深挖（[路线图](./topics/go/notes/roadmap.md)） |
+| [go](./topics/go/) | learning | Java→Go 至精通；[知识目录](./topics/go/notes/curriculum.md) · [foundation](./topics/go/notes/foundation.md) |
 
 状态取值：`inbox` / `learning` / `parked` / `done`。
