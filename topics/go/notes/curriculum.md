@@ -153,7 +153,7 @@
 ### 0113 nil interface 与「带类型的 nil」
 
 - **前置：** 0112  
-- **引出：** 0115, lab-001  
+- **引出：** 0115, labs/001-slice-and-interface  
 - **Java 对照：** Java `null` 无类型；Go interface 是 (type,value)  
 - **对照基础：** 试探题 3「不知道」—— **优先**  
 - **状态：** pending  
