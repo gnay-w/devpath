@@ -42,9 +42,9 @@
 
 | 路径 | 说明 |
 |------|------|
-| `0101-demo/` | `NewUser` / `Name()`；访问 `u.name` 会编译失败 |
-| `0101-demo/cmd/ok` | 同 module 可 import `internal/store` |
-| `0101-outsider/` | 跨 module import `internal` → 被拒绝 |
+| `demo/` | `NewUser` / `Name()`；访问 `u.name` 会编译失败 |
+| `demo/cmd/ok` | 同 module 可 import `internal/store` |
+| `outsider/` | 跨 module import `internal` → 被拒绝 |
 
 ## 最小例子
 

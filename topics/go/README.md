@@ -17,7 +17,7 @@ Go 语言：从当前基础到精通（语言 + 常用标准库 + 生产工程�
 - **知识目录（SSOT）：** [curriculum.md](./notes/curriculum.md)
 - **基础快照：** [foundation.md](./notes/foundation.md)
 - **阶段地图：** [roadmap.md](./notes/roadmap.md)
-- **已完成讲解：** [0101 包与可见性](./notes/kp/0101-packages-visibility.md)
+- **已完成讲解：** [0101 包与可见性](./notes/kp/0101-packages-visibility/)
 - Lab：暂无
 - 项目：暂无（P3：`projects/json-api/`）
 

@@ -2,14 +2,15 @@
 
 > **SSOT**：从当前基础到精通（边界 C）的全部知识点。  
 > 阶段节奏见 [roadmap.md](./roadmap.md)；讲解只认 [foundation.md](./foundation.md)。  
-> 学完一个 KP：本表状态 → `done`，并**同一提交**更新 foundation；讲解落在 `kp/DDnn-slug.md`。
+> 学完一个 KP：本表状态 → `done`，并**同一提交**更新 foundation；讲解落在 `kp/DDnn-slug/`。
 
 ## 怎么用
 
-1. **先教后写：** 每个 KP 先循序渐进互动教学（必要时加 `labs/` 或 `notes/kp/…` 旁的 demo）；教完、澄清困惑后，再把讲解写入 `kp/DDnn-….md`。  
-2. 按「推荐序」学；硬依赖看 **前置**，学完看 **引出**。  
-3. 写讲解前先读 foundation；对照 Java 看每条的「Java 对照」。  
-4. 状态：`pending` / `learning` / `done`。学完：`done` + **同一提交**更新 foundation。
+1. **先教后写：** 每个 KP 先循序渐进互动教学；实践 demo 由助手执行展示。教完后落盘到 **`kp/DDnn-slug/`**（见下）。  
+2. **一 KP 一目录：** `kp/DDnn-slug/README.md`（讲解）+ 同目录下 `demo/`、`outsider/` 等实践代码；不要把多个 KP 的文件平铺在 `kp/` 根下。  
+3. 按「推荐序」学；硬依赖看 **前置**，学完看 **引出**。  
+4. 写讲解前先读 foundation；对照 Java 看每条的「Java 对照」。  
+5. 状态：`pending` / `learning` / `done`。学完：`done` + **同一提交**更新 foundation。
 
 ## 推荐总序
 
@@ -38,7 +39,7 @@
 - **Java 对照：** `public` / 包可见 ≈ 大写导出；目录与包名习惯更严  
 - **对照基础：** 包能 import；导出规则可能含糊  
 - **状态：** done  
-- **讲解：** [kp/0101-packages-visibility.md](./kp/0101-packages-visibility.md)  
+- **讲解：** [kp/0101-packages-visibility/](./kp/0101-packages-visibility/)  
 - **验收：** 能说清何时大写、`internal/` 的含义；import 的是包（path=module+目录）  
 
 ### 0102 类型系统基础与零值

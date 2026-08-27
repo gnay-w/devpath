@@ -1,9 +1,18 @@
 # KP 讲解模板
 
-复制为 `kp/DDnn-slug.md` 后填写。
+复制为目录 `kp/DDnn-slug/`，讲解写在该目录的 `README.md`；实践代码放同目录（如 `demo/`）。
 
 **时机：** 本 KP 已互动教完、困惑点已澄清之后再写（不要先写长文再上课）。  
-写之前先读 [foundation.md](./foundation.md)；可引用教学时用过的 demo 路径。
+写之前先读 [foundation.md](./foundation.md)；可引用本目录下已跑过的 demo。
+
+**布局约定：**
+
+```text
+kp/DDnn-slug/
+  README.md     # 讲解（本模板内容）
+  demo/         # 可选：本课可运行示例
+  ...           # 可选：outsider/ 等对照实验
+```
 
 ```markdown
 # DDnn 标题
@@ -21,10 +30,11 @@
 - 概念
 - 对照 Java（像什么 / 哪里不像）
 - 与前置 KP 的衔接（学过的点怎么用上）
+- 教学中出现的困惑与澄清
 
 ## 最小例子
 
-（或指向 `labs/...`）
+（指向本目录 `demo/` 等）
 
 ## 验收题
 

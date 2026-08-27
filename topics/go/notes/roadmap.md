@@ -11,8 +11,8 @@
 | [curriculum.md](./curriculum.md) | **全量知识点 SSOT**（编号、前置/引出、状态、验收） |
 | [foundation.md](./foundation.md) | **活基础快照**（讲解只认这份；学完必更新） |
 | 本文件 roadmap | **阶段地图**（P0–P4 节奏、lab/project 挂载） |
-| `kp/*.md` | 逐点讲解（**教完再写**；模板见 [_kp-template.md](./_kp-template.md)） |
-| demo / lab | 实践时写可运行小文件，不空讲 |
+| `kp/DDnn-slug/` | 一 KP 一目录：`README.md` 讲解 + 同目录 demo（**教完再写** README） |
+| demo（在 KP 目录内） | 实践时写可运行小文件，由助手执行展示 |
 
 进度以 curriculum 状态为准。活水位以 foundation 为准（下面表格是试探归档，不日常改）。
 
