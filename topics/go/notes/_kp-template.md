@@ -1,6 +1,9 @@
 # KP 讲解模板
 
-复制为 `kp/DDnn-slug.md` 后填写。写之前先读 [foundation.md](./foundation.md)。
+复制为 `kp/DDnn-slug.md` 后填写。
+
+**时机：** 本 KP 已互动教完、困惑点已澄清之后再写（不要先写长文再上课）。  
+写之前先读 [foundation.md](./foundation.md)；可引用教学时用过的 demo 路径。
 
 ```markdown
 # DDnn 标题

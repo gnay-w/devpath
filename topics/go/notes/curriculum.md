@@ -6,9 +6,10 @@
 
 ## 怎么用
 
-1. 按「推荐序」学；硬依赖看 **前置**，学完看 **引出**。  
-2. 写讲解前先读 foundation；对照 Java 看每条的「Java 对照」。  
-3. 状态：`pending` / `learning` / `done`。
+1. **先教后写：** 每个 KP 先循序渐进互动教学（必要时加 `labs/` 或 `notes/kp/…` 旁的 demo）；教完、澄清困惑后，再把讲解写入 `kp/DDnn-….md`。  
+2. 按「推荐序」学；硬依赖看 **前置**，学完看 **引出**。  
+3. 写讲解前先读 foundation；对照 Java 看每条的「Java 对照」。  
+4. 状态：`pending` / `learning` / `done`。学完：`done` + **同一提交**更新 foundation。
 
 ## 推荐总序
 
