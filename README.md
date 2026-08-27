@@ -15,6 +15,6 @@
 
 | 技术 | 状态 | 一句话 |
 |------|------|--------|
-| [go](./topics/go/) | inbox | Go 语言：语法、标准库、工具链与小练习 |
+| [go](./topics/go/) | learning | Java→Go：补洞→并发→生产后端→深挖（[路线图](./topics/go/notes/roadmap.md)） |
 
 状态取值：`inbox` / `learning` / `parked` / `done`。
